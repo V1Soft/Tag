@@ -26,8 +26,4 @@ Tag Methods:
     addDescriptor()
     delValue()
     delDescriptor()
-    @Override
-    public String toString() {return tag;}
-}
-
-    
+    toString()
