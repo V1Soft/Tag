@@ -1,14 +1,8 @@
 # Tag
 Tag Data Storage Solution
+[Status: Currently no plans for Development]
 
-Tag Utilities:
-    getTag()
-    getTagByID()
-    getTagByName()
-    getTagByType()
-    getTagByDescriptor()
-    addTag()
-    delTag()
+Tag Utilities:    <br>getTag()<br>    getTagByID()<br>    getTagByName()<br>    getTagByType()<br>    getTagByDescriptor()<br>    addTag()<br>    delTag()<br>
     
 Tag Methods:
     getValue()
